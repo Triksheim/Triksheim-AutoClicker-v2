@@ -1,10 +1,11 @@
 # Triksheim AutoClicker v2
-
 ## Overview
 Customizable AutoHotkey-based autoclicker with a user-friendly GUI.\
 Adjustable click delay, random offset between clicks, and fixed or dynamic click positions.\
 Fixed click mode features snap back to previous mouse position which makes it possible to\
 run the AC while still being in control of the mouse on a different part of the screen.
+
+![Image](https://github.com/user-attachments/assets/14eed834-54cd-4a01-a573-cc32f6009591)
 
 ## How to Use
 
